@@ -1,0 +1,3 @@
+ahello = 1
+Ahello = 2
+b = ahello + Ahello

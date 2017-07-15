@@ -1,0 +1,5 @@
+a = 1
+aa = 1 + a
+aaa = 1 + aa
+aaaa = 1 + aaa
+aaaaa= 1 + aaaa

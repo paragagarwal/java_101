@@ -1,0 +1,3 @@
+repeata = 1000
+a = repeata + repeata + repeata
+b = repeata +  a + repeata  + repeata

@@ -1,0 +1,3 @@
+varspaces    =     morespaces    + 10000
+    morespaces   = 4000  + a
+a = 10
